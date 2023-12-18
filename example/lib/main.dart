@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:map_camera_flutter/map_camera_flutter.dart';
+import 'package:map_camera_flutter_2/map_camera_flutter_2.dart';
 
 
 void main() async{

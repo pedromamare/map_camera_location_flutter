@@ -1,4 +1,4 @@
-library map_camera_flutter;
+library map_camera_flutter_2;
 
 export 'package:flutter/material.dart';
 export 'dart:async';
@@ -13,6 +13,6 @@ export 'package:flutter_map_location_marker/flutter_map_location_marker.dart';
 export 'package:geocoding/geocoding.dart';
 export 'package:geolocator/geolocator.dart';
 export 'package:path_provider/path_provider.dart';
-export 'package:map_camera_flutter/src/image_and_location_data.dart';
+export 'package:map_camera_flutter_2/src/image_and_location_data.dart';
 
 export 'src/map_camera.dart';
